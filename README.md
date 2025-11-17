@@ -32,7 +32,7 @@ Aplicación de tótem para generar turnos en sala de espera, con teclado en pant
 - ✅ Interfaz accesible: tipografías grandes, íconos claros, feedback visual y sonoro
 - ✅ Integración con base de datos / API de turnos
 
-🔗 [Ver repositorio]([#](https://github.com/tomasoviedoII/Totem-HBEE))
+🔗 [Ver repositorio](https://github.com/tomasoviedoII/Totem-HBEE)
 
 ---
 
@@ -44,7 +44,7 @@ Bot que recibe mensajes por WhatsApp, los convierte en tickets y los gestiona de
 - ✅ Asignación a agentes y estados (nuevo, en curso, resuelto, pausado)
 - ✅ Registro de tiempos de atención y resúmenes para backlog
 
-🔗 [Ver repositorio]([#](https://github.com/tomasoviedoII/Bot-HBEE))
+🔗 [Ver repositorio](https://github.com/tomasoviedoII/Bot-HBEE)
 
 ---
 
