@@ -20,7 +20,7 @@ Sistema completo de portal de turnos con roles (admin, imágenes, moderador), va
 - ✅ Panel de administración con distintos permisos
 - ✅ Diseño responsive y branding consistente HBEE
 
-🔗 [Ver repositorio]((https://github.com/tomasoviedoII/hbee-portal-turnos)) · 🔴 Demo / capturas
+🔗 [Ver repositorio](https://github.com/tomasoviedoII/hbee-portal-turnos) · 🔴 Demo / capturas
 
 ---
 
