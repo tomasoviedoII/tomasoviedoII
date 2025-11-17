@@ -20,7 +20,7 @@ Sistema completo de portal de turnos con roles (admin, imágenes, moderador), va
 - ✅ Panel de administración con distintos permisos
 - ✅ Diseño responsive y branding consistente HBEE
 
-🔗 [Ver repositorio](https://github.com/tomasoviedoII/hbee-portal-turnos) · 🔴 Demo / capturas
+🔗 [Ver repositorio](https://github.com/tomasoviedoII/Turnos-HBEE) · 🔴 Demo / capturas
 
 ---
 
@@ -32,7 +32,7 @@ Aplicación de tótem para generar turnos en sala de espera, con teclado en pant
 - ✅ Interfaz accesible: tipografías grandes, íconos claros, feedback visual y sonoro
 - ✅ Integración con base de datos / API de turnos
 
-🔗 [Ver repositorio](#)
+🔗 [Ver repositorio]([#](https://github.com/tomasoviedoII/Totem-HBEE))
 
 ---
 
@@ -44,7 +44,7 @@ Bot que recibe mensajes por WhatsApp, los convierte en tickets y los gestiona de
 - ✅ Asignación a agentes y estados (nuevo, en curso, resuelto, pausado)
 - ✅ Registro de tiempos de atención y resúmenes para backlog
 
-🔗 [Ver repositorio](#)
+🔗 [Ver repositorio]([#](https://github.com/tomasoviedoII/Bot-HBEE))
 
 ---
 
@@ -59,6 +59,6 @@ Bot que recibe mensajes por WhatsApp, los convierte en tickets y los gestiona de
 
 ## 📫 Contacto
 
-- 📧 Email: tu-email@ejemplo.com  
+- 📧 Email: tomasoviedo27014@gmail.com  
 - 🌐 Portfolio: https://tomasoviedo.dev  
-- 💼 LinkedIn: https://www.linkedin.com/in/tu-usuario
+- 💼 LinkedIn: [https://www.linkedin.com/in/TomasOviedoII](https://www.linkedin.com/in/TomasOviedoII/)
